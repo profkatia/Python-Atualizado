@@ -61,20 +61,25 @@ que está indentado logo abaixo dele.
 
 '''
 
-# Escreva seu código aqui
+# 1º passo - ENTRADAS (declaração das variáveis)
 
-# 1o passo - declarar as variáveis - Entradas
-
-
-# 2o passo - cálculos
-
-
+nota1 = float(input("Digite a primeira nota: "))
+nota2 = float(input("Digite a segunda nota: "))
+nota3 = float(input("Digite a terceira nota: "))
+nota4 = float(input("Digite a quarta nota: "))
 
 
-# 3o passo - tomar a decisão com IF para saber se o aluno
-# está: Aprovado ou Reprovado
+# 2º passo - CÁLCULO da média
+
+media = (nota1 + nota2 + nota3 + nota4) / 4
 
 
+# 3º passo - ANÁLISE com IF (decisão)
+
+if media >= 7:
+    print(f"Média: {media:.2f} - Aluno APROVADO ✅")
+else:
+    print(f"Média: {media:.2f} - Aluno REPROVADO ❌")
 
 
 
