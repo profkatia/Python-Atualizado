@@ -1,0 +1,8 @@
+Data,Vendedor,Produto,Vlr Unit,Qtde Vendida,Cliente,Munic�pio,UF
+2025-08-01,Jo�o,Produto A,25.00,3,Cliente X,S�o Paulo,SP
+2025-08-02,Maria,Produto B,40.00,2,Cliente Y,Rio de Janeiro,RJ
+2025-08-03,Carlos,Produto C,15.00,5,Cliente Z,Belo Horizonte,MG
+2025-08-04,Ana,Produto D,30.00,1,Cliente W,Curitiba,PR
+2025-08-05,Pedro,Produto E,22.50,4,Cliente V,Salvador,bh2
+2025-08-07,Joana,Produto zv,40.00,4,Cliente ayX,Rio de Janeiro,RJ
+
